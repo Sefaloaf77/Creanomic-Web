@@ -1,0 +1,141 @@
+@font-face {
+  font-family: "Font Nixmat";
+  src: url("../font/Nixmat.ttf");
+}
+.digital {
+  font-family: "Font Nixmat";
+}
+body {
+  background-image: url("../images/longbg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+h1 {
+  font-family: "Font Nixmat";
+}
+h2,
+h3,
+h4,
+h5,
+p,
+a {
+  font-family: "Poppins", sans-serif;
+}
+.judul h1 {
+  font-size: 70px;
+  margin-top: 70px;
+}
+.box {
+  margin-top: 110px;
+  margin-bottom: 80px;
+  padding-top: 0;
+  background: rgba(255, 255, 255, 0.25);
+  /* box-shadow: 0 0px 20px 0 #64e6ad; */
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 0px 0px 40px 0;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  height: max-content;
+}
+.jangkauan {
+  background-color: #0269b8;
+  width: max-content;
+  height: max-content;
+  padding: 15px;
+  margin-left: -12px;
+  border-radius: 0px 0 20px 0;
+}
+.keterangan {
+  margin-left: 50px;
+}
+.keterangan h2 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.keterangan p {
+  color: #e2bd23;
+}
+.tombol {
+  margin-left: 50px;
+}
+.tombol .btn1 {
+  background-color: #64e6ad;
+  padding: 10px;
+  text-decoration: none;
+  color: #26038a;
+  margin-bottom: 10px;
+  /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
+  border: 2px solid rgba(255, 255, 255, 0.18);
+}
+.btn1:hover {
+  box-shadow: 0 0px 20px #64e6ad;
+  border: 2px solid #fff;
+  color: #000;
+}
+.tombol .btn2 {
+  padding: 10px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  border: 2px solid #64e6ad;
+}
+.btn2:hover {
+  box-shadow: 0 0px 20px 0 #64e6ad;
+  border: 2px solid #fff;
+}
+.gambar img {
+  height: 400px;
+  margin-top: -80px;
+  margin-bottom: 20px;
+}
+@media (min-width: 992px) {
+  .nav-item .competition::after {
+    content: "";
+    display: block;
+    color: #0a042d;
+    border-bottom: 3px solid #0a042d;
+    margin-bottom: -3px;
+  }
+}
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #dc3bc7;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #6a0079;
+}
+@media only screen and (max-width: 768px) {
+  .judul h1 {
+    font-size: 40px;
+    margin-top: 70px;
+  }
+  .keterangan {
+    margin-left: 10px;
+  }
+  .tombol {
+    margin-left: 10px;
+  }
+  .gambar img {
+    height: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+}
+@media (min-width: 0px) and (max-width: 360px) {
+  .keterangan h2 {
+    font-size: 30px;
+    font-weight: bolder;
+  }
+}
+@media (min-width: 0px) and (max-width: 420px) {
+  .jangkauan h5 {
+    font-size: initial;
+  }
+}
