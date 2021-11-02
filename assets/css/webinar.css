@@ -23,6 +23,85 @@ body {
   background-size: cover;
   width: 100%;
 }
+section.webinar {
+  background: linear-gradient(108.2deg, rgba(226, 189, 35, 0.8) 0%, rgba(226, 189, 35, 0.3) 100.01%);
+  clip-path: polygon(0 0, 100% 9%, 100% 100%, 0 90%);
+  padding: 120px 0;
+}
+.judul h1 {
+  font-size: 70px;
+  margin-top: 70px;
+}
+.webinar .row h2 {
+  font-weight: bold;
+  color: #0a042d;
+  font-size: 40px;
+}
+.webinar .row .batas {
+  width: 60%;
+  background-color: #9586f9;
+  border-radius: 50px;
+  height: 8px;
+  margin-bottom: 20px;
+}
+.webinar .row h5 {
+  color: #ffff;
+}
+.informasi {
+  margin: 70px 0;
+}
+.informasi h4 {
+  line-height: 50px;
+}
+.informasi .row {
+  margin-top: 80px;
+}
+.join {
+  margin-top: 70px;
+  background-color: #9586f965;
+  height: max-content;
+  padding: 3% 0;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.join a {
+  background-color: #64e6ad;
+  padding: 10px 30px;
+  text-decoration: none;
+  font-weight: bolder;
+  color: #26038a;
+  margin-bottom: 10px;
+  /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
+  border: 2px solid rgba(255, 255, 255, 0.18);
+}
+.join a:hover {
+  box-shadow: 0 0px 20px #64e6ad;
+  border: 2px solid #fff;
+  color: #000;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .foto {
+    order: 1;
+    margin: 0 auto;
+  }
+  .keterangan {
+    order: 2;
+    margin: 0 auto;
+  }
+  .webinar .row h2 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+  }
+  .webinar .row .batas {
+    margin: 0 auto;
+  }
+  .webinar .row h5 {
+    margin-top: 30px;
+    font-size: initial;
+  }
+}
 @media (min-width: 992px) {
   .nav-item .webinar::after {
     content: "";

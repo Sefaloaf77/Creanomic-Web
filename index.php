@@ -130,11 +130,11 @@ $competitions = [
             <div class="h4 text-black fw-light">“Strategies in Dealing with Business Challenges”</div>
             <div class="h4 text-black">14 November 2021</div>
             <div class="d-flex flex-wrap justify-content-center my-4">
-              <img src="./assets/images/speaker1.png" style="width:200px; border: 10px solid #0a042d; border-radius: 50%" class="img-fluid mt-3" alt="profile" data-aos="zoom-in-up">
-              <img src="./assets/images/speaker2.png" style="width:200px; border: 10px solid #0a042d; border-radius: 50%" class="img-fluid mt-3" alt="profile" data-aos="zoom-in-up">
-              <img src="./assets/images/speaker3.png" style="width:200px; border: 10px solid #0a042d; border-radius: 50%" class="img-fluid mt-3" alt="profile" data-aos="zoom-in-up">
+              <img src="./assets/images/speaker1.png" style="width:200px;" class="img-fluid mt-3" alt="profile" data-aos="zoom-in-up">
+              <img src="./assets/images/speaker2.png" style="width:200px;" class="img-fluid mt-3" alt="profile" data-aos="zoom-in-up">
+              <img src="./assets/images/speaker3.png" style="width:200px;" class="img-fluid mt-3" alt="profile" data-aos="zoom-in-up">
             </div>
-            <a href="webinar.php" class="btn me-2">Join Now</a>
+            <a href="https://bit.ly/RegistrasiTalkshowCreanomic2021" class="btn me-2">Join Now</a>
             <a href="webinar.php" class="btn0">More &rarr;</a>
           </div>
         </div>

@@ -80,6 +80,9 @@ a {
   margin-bottom: 10px;
   border: 2px solid #64e6ad;
 }
+.tombol .btn2 i {
+  font-size: 20px;
+}
 .btn2:hover {
   box-shadow: 0 0px 20px 0 #64e6ad;
   border: 2px solid #fff;
