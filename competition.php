@@ -21,8 +21,8 @@
             </div>
             <div class="tombol d-flex">
               <!-- tombol download masih berupa link pendaftaran (kurang link juknis) -->
-              <a href="https://drive.google.com/drive/folders/1DwzQmv6_o2C4WkPFIy5GUudgIKxCpBaJ?usp=sharing" class="btn1 mt-4">Download File</a>
-              <a href="https://chatwith.io/s/creanomic-1" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://drive.google.com/drive/folders/1DwzQmv6_o2C4WkPFIy5GUudgIKxCpBaJ?usp=sharing" target="_blank" class="btn1 mt-4">Download File</a>
+              <a href="https://chatwith.io/s/creanomic-1" target="_blank" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
               <!-- <a href="#" class="btn2 text-white mt-4 ms-4">See Winner</a> -->
             </div>
           </div>
@@ -47,8 +47,8 @@
             </div>
             <div class="tombol d-flex">
               <!-- tombol download masih berupa link pendaftaran (kurang link juknis) -->
-              <a href="https://drive.google.com/drive/folders/1Y_WWgBkxiOV2QNTlyqrsADuKlQFSweYF?usp=sharing" class="btn1 mt-4">Download File</a>
-              <a href="https://chatwith.io/s/creanomic-3" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://drive.google.com/drive/folders/1Y_WWgBkxiOV2QNTlyqrsADuKlQFSweYF?usp=sharing" target="_blank" class="btn1 mt-4">Download File</a>
+              <a href="https://chatwith.io/s/creanomic-3" target="_blank" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
               <!-- <a href="#" class="btn2 text-white mt-4 ms-4">See Winner</a> -->
             </div>
           </div>
@@ -73,8 +73,8 @@
             </div>
             <div class="tombol d-flex">
               <!-- tombol download masih berupa link pendaftaran (kurang link juknis) -->
-              <a href="https://drive.google.com/drive/folders/1MupNei4sULiIimsaXBhNsGmkMi1CCFRu?usp=sharing" class="btn1 mt-4">Download File</a>
-              <a href="https://chatwith.io/s/creanomic-3" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://drive.google.com/drive/folders/1MupNei4sULiIimsaXBhNsGmkMi1CCFRu?usp=sharing" target="_blank" class="btn1 mt-4">Download File</a>
+              <a href="https://chatwith.io/s/creanomic-3" target="_blank" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
               <!-- <a href="#" class="btn2 text-white mt-4 ms-4">See Winner</a> -->
             </div>
           </div>
@@ -99,8 +99,8 @@
             </div>
 
             <div class="tombol d-flex">
-              <a href="https://drive.google.com/drive/folders/1tGVWt2Vbz8-XY96VXmSlWIo9qIOelItw?usp=sharing" class="btn1 mt-4">Download File</a>
-              <a href="https://chatwith.io/s/creanomic-1" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://drive.google.com/drive/folders/1tGVWt2Vbz8-XY96VXmSlWIo9qIOelItw?usp=sharing" target="_blank" class="btn1 mt-4">Download File</a>
+              <a href="https://chatwith.io/s/creanomic-1" target="_blank" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
               <!-- <a href="#" class="btn2 text-white mt-4 ms-4">See Winner</a> -->
             </div>
           </div>
@@ -125,8 +125,8 @@
             </div>
             <div class="tombol d-flex">
               <!-- tombol download masih berupa link pendaftaran bahasa Inggris (kurang link juknis) -->
-              <a href="https://drive.google.com/drive/folders/1uqqqcoxAP3xNMFxzsg6a252hUSy0ks-E?usp=sharing" class="btn1 mt-4">Download File</a>
-              <a href="https://chatwith.io/s/creanomic-1" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://drive.google.com/drive/folders/1uqqqcoxAP3xNMFxzsg6a252hUSy0ks-E?usp=sharing" target="_blank" class="btn1 mt-4">Download File</a>
+              <a href="https://chatwith.io/s/creanomic-1" target="_blank" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
               <!-- <a href="#" class="btn2 text-white mt-4 ms-4">See Winner</a> -->
             </div>
           </div>
@@ -151,8 +151,8 @@
             </div>
             <div class="tombol d-flex">
               <!-- tombol download masih berupa link pendaftaran (kurang link juknis) -->
-              <a href="https://drive.google.com/drive/folders/1n8d7iJhMOlXWaRZyJglO061Gtorj62Jc?usp=sharing" class="btn1 mt-4">Download File</a>
-              <a href="https://chatwith.io/s/creanomic-3" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://drive.google.com/drive/folders/1n8d7iJhMOlXWaRZyJglO061Gtorj62Jc?usp=sharing" target="_blank" class="btn1 mt-4">Download File</a>
+              <a href="https://chatwith.io/s/creanomic-3" target="_blank" class="btn2 text-white mt-4 ms-4"><i class="fab fa-whatsapp"></i></a>
               <!-- <a href="#" class="btn2 text-white mt-4 ms-4">See Winner</a> -->
             </div>
           </div>

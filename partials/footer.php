@@ -2,16 +2,16 @@
   <div class="d-block d-md-flex justify-content-between align-items-center py-4">
     <div class="text-warning">Copyright &copy; Creanomic 2021. All right reserved</div>
     <div class="d-flex gap-4 mt-2 mt-md-0 align-items-center">
-      <a href="https://www.instagram.com/creanomic_vokasiub/" class="h2 text-light mb-0">
+      <a href="https://www.instagram.com/creanomic_vokasiub/" target="_blank" class="h2 text-light mb-0">
         <i class="bi bi-instagram"></i>
       </a>
-      <a href="https://www.youtube.com/channel/UCNSD4z1jq9RlXDdmjVtFZAQ" class="h2 text-light mb-0">
+      <a href="https://www.youtube.com/channel/UCNSD4z1jq9RlXDdmjVtFZAQ" target="_blank" class="h2 text-light mb-0">
         <i class="bi bi-youtube"></i>
       </a>
-      <a href="https://twitter.com/creanomic_ub" class="h2 text-light mb-0">
+      <a href="https://twitter.com/creanomic_ub" target="_blank" class="h2 text-light mb-0">
         <i class="bi bi-twitter"></i>
       </a>
-      <a href="https://www.tiktok.com/@creanomic_vokasiub" class="h2 text-light mb-0">
+      <a href="https://www.tiktok.com/@creanomic_vokasiub" target="_blank" class="h2 text-light mb-0">
         <i class="fab fa-tiktok"></i>
       </a>
     </div>
