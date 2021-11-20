@@ -1,34 +1,40 @@
 <?php
 $merch = [
   [
-    'img' => './assets/images/tote.png',
+    'img' => './assets/images/totebag.png',
     'name' => 'Totebag',
-    'price' => 'Rp. 10.000'
+    'price' => '59k',
+    'aos' => 'up-right'
   ],
   [
-    'img' => './assets/images/tote.png',
-    'name' => 'Totebag',
-    'price' => 'Rp. 10.000'
+    'img' => './assets/images/lighter.png',
+    'name' => 'Lighter',
+    'price' => '18k',
+    'aos' => 'flip-up'
   ],
   [
-    'img' => './assets/images/tote.png',
-    'name' => 'Totebag',
-    'price' => 'Rp. 10.000'
+    'img' => './assets/images/t-shirt.png',
+    'name' => 'T-Shirt',
+    'price' => '89k (+5k for long sleeve)',
+    'aos' => 'up-left'
   ],
   [
-    'img' => './assets/images/tote.png',
-    'name' => 'Totebag',
-    'price' => 'Rp. 10.000'
+    'img' => './assets/images/PAPERRFOX.png',
+    'name' => 'PAPERRFOX',
+    'price' => '70k',
+    'aos' => 'up-right'
   ],
   [
-    'img' => './assets/images/tote.png',
-    'name' => 'Totebag',
-    'price' => 'Rp. 10.000'
+    'img' => './assets/images/CHOPPER.png',
+    'name' => 'CHOPPER',
+    'price' => '145k',
+    'aos' => 'flip-down'
   ],
   [
-    'img' => './assets/images/tote.png',
-    'name' => 'Totebag',
-    'price' => 'Rp. 10.000'
+    'img' => './assets/images/scape.png',
+    'name' => 'SCAPE',
+    'price' => '100k',
+    'aos' => 'up-left'
   ],
 ];
 ?>
@@ -52,7 +58,7 @@ $merch = [
       <h5 class="fw-bold pb-5">Creanomic 2021</h5>
       <div class="row mt-5">
         <?php foreach ($merch as $m){ ?>
-        <div class="col-md-4 mb-4 d-flex flex-column">
+        <div class="col-md-4 mb-4 d-flex flex-column" data-aos="fade-<?= $m['aos'] ?>">
           <div class="foto align-self-center">
             <img class="img-fluid" src="<?= $m['img'] ?>" alt="tote" />
           </div>
